@@ -37,3 +37,13 @@
     ```bash
       npm run dev
     ```
+
+# ⚙️ Features
+
+  - **User Authentication**: Supports manual login and social media login via Google, Facebook, and GitHub for easy access.
+  - **GitHub User Search:**: Allows users to search for any GitHub username to retrieve detailed information.
+  - **Profile Details:**: Displays comprehensive profile information including bio, location, and profile picture.
+  - **Repositories Overview:**: Lists all public repositories with details such as stars, forks, and descriptions.
+  - **Followers and Following:**: Provides information about the user's followers and the users they are following.
+  - **Responsive Design:**: Ensures a seamless experience across different devices with a mobile-friendly interface.
+
