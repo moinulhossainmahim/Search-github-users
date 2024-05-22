@@ -52,10 +52,10 @@
   - **React and Component-Based Architecture:**: Deepened understanding of React for building reusable UI components, enhancing modularity and maintainability of the application.
   - **State Management and API Handling**: Improved handling of application state and asynchronous data fetching using React's state management and lifecycle methods.
 
-  ### Discovering New Tools:
+    ### Discovering New Tools:
 
-   - **FusionCharts for Data Visualization:**: Learned to integrate FusionCharts to create interactive and visually appealing charts and graphs, providing insightful data representations.
-   - **OAuth for Social Login Authentication**: Mastered the implementation of OAuth protocols for enabling secure social logins with Google, Facebook, and GitHub.
-   - **Consuming GitHub API**: Acquired skills in fetching data from GitHub's free API, including user profiles, followers, and repositories, to display real-time information.
-   - **React Router Dom for Navigation**: Gained expertise in implementing client-side routing to create a dynamic and seamless user experience.
+     - **FusionCharts for Data Visualization:**: Learned to integrate FusionCharts to create interactive and visually appealing charts and graphs, providing insightful data representations.
+     - **OAuth for Social Login Authentication**: Mastered the implementation of OAuth protocols for enabling secure social logins with Google, Facebook, and GitHub.
+     - **Consuming GitHub API**: Acquired skills in fetching data from GitHub's free API, including user profiles, followers, and repositories, to display real-time information.
+     - **React Router Dom for Navigation**: Gained expertise in implementing client-side routing to create a dynamic and seamless user experience.
 
