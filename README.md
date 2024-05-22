@@ -35,7 +35,7 @@
   ### Start the application
   - 
     ```bash
-      npm run dev
+      npm start
     ```
 
 # ⚙️ Features
