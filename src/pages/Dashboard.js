@@ -1,9 +1,14 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Info, Repos, User, Search, Navbar } from '../components';
 import loadingImage from '../images/preloader.gif';
 import { GithubContext } from '../context/context';
 const Dashboard = () => {
-  const { isLoading } = React.useContext(GithubContext);
+  const { isLoading, searchGithubUser } = React.useContext(GithubContext);
+
+  useEffect(() => {
+    searchGithubUser('moinulhossainmahim');
+  }, [])
+
   if (isLoading) {
     return (
       <main>
