@@ -59,3 +59,10 @@
      - **Consuming GitHub API**: Acquired skills in fetching data from GitHub's free API, including user profiles, followers, and repositories, to display real-time information.
      - **React Router Dom for Navigation**: Gained expertise in implementing client-side routing to create a dynamic and seamless user experience.
 
+## 💭 How can it be improved?
+
+  - Show recent activities of the searched GitHub user, such as commits, pull requests, and issues.
+  - Allow users to bookmark profiles and maintain a search history for quick access to frequently searched users.
+  - Implement a dark mode option to enhance user experience, especially in low-light environments.
+  - Increase test coverage by adding unit and integration tests, ensuring the reliability and stability of the application.
+    
